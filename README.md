@@ -2,7 +2,7 @@
 
 <img src='./assets/cover-photo.gif' />
 
-# Hi, <img src='./assets//hi.gif' height='35' /> I’m [Nirvik Purkait](https://github.com/nirvikpurkait), a Full-stack Developer
+# 📢 Hi, <img src='./assets//hi.gif' height='35' /> I’m [Nirvik Purkait](https://github.com/nirvikpurkait), a Full-stack Developer
 
 <div>
 
@@ -48,6 +48,10 @@
     <img src="https://github-profile-trophy.vercel.app/?username=nirvikpurkait&theme=dracula&no-frame=false&no-bg=true&margin-w=4" height="100">
   </picture>
 </p>
+
+## 🤝 Contribution
+
+To contribute to the this repository, please refer the [contribution guide](./CONTRIBUTION.md).
 
 <!-- BADGE-SOURCE = https://simpleicons.org/ -->
 
