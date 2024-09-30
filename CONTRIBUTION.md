@@ -8,32 +8,32 @@ Before you commit or make a PR, you should use one of the below format, which ev
 
 #### Addition of new features:
 
-➕ `add:` `<your-message>`
+➕ add: your-message
 
 #### Deletion of existing features:
 
-🗑️ `del:` `<your-message>`
+🗑️ del: your-message
 
 #### General fix:
 
-🔧 `fix:` `<your-message>`
+🔧 fix: your-message
 
 #### Bug fix:
 
-🐛 `bug-fix:` `<your-message>`
+🐛 bug-fix: your-message
 
 #### Refractoring codebase:
 
-♻️ `ref:` `<your-message>`
+♻️ ref: your-message
 
 #### Experiment:
 
-🧪 `exp:` `<your-message>`
+🧪 exp: your-message
 
 #### Announcement:
 
-📣 `announce:` `<your-message>`
+📣 announce: your-message
 
 #### Target achieving:
 
-🎯 `target:` `<your-message>`
+🎯 target: your-message
