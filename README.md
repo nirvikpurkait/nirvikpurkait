@@ -2,7 +2,7 @@
 
 <img src='./assets/cover-photo.gif' />
 
-# 📢 Hi, <img src='./assets//hi.gif' height='35' /> I’m [Nirvik Purkait](https://github.com/nirvikpurkait), a Full-stack Developer
+# 📢 Hi, <img src='./assets/hi.gif' width='35' height='35' /> I’m [Nirvik Purkait](https://github.com/nirvikpurkait), a Full-stack Developer
 
 <div>
 
